@@ -7,7 +7,7 @@
 			<head>
 				<meta charset="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="stylesheet" type="text/css" href="style.css?v=8"></link>
+				<link rel="stylesheet" type="text/css" href="style.css?v=10"></link>
 				<meta name="description" content="{ title } - { description }" />
 				<link rel="alternate" type="application/rss+xml" title="{ title }" href="podcast.xml" />
 				<link rel="shortcut icon" href="favicon.ico"></link>
@@ -39,7 +39,7 @@
           
 					<ul class="posts">
 						<xsl:for-each select="./item">
-							<li>
+							<li id="{ concat('episode', substring-before(guid, '.mp3')) }">
 								<h2>
 									<a href="{ substring-after(*[local-name()='image']/@href,'derestisgeschiedenis.nl/') }" title="Bekijk afbeelding" class="episode-cover">
 										<picture>

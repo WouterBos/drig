@@ -1,8 +1,9 @@
 <?xml-stylesheet type="text/xsl" href="style.xsl?v=5" media="screen" ?>
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
+        <atom:link href="http://derestisgeschiedenis.nl/podcast.xml" rel="self" type="application/rss+xml" />
         <title>De Rest Is Geschiedenis</title>
-        <link>http://derestisgeschiedenis.nl/podcast.xml</link>
+        <link>http://derestisgeschiedenis.nl</link>
         <description>Geschiedenis in de gemeente Oss. Simpel en levendig gebracht met interviews.</description>
         <managingEditor>wouter@bososs.nl (Wouter Bos)</managingEditor>
         <webMaster>wouter@bososs.nl (Wouter Bos)</webMaster>
@@ -10,7 +11,7 @@
         <copyright>Copyright (C) 2020 De Rest Is Geschiedenis</copyright>
         <creativeCommons:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
         <pubDate>Sun, 10 May 2020 04:00:00 GMT</pubDate>
-        <lastBuildDate>Fri, 14 May 2020 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2020 00:00:00 GMT</lastBuildDate>
         <docs>http://www.rssboard.org/rss-specification</docs>
         <itunes:author>Wouter Bos</itunes:author>
         <itunes:keywords>geschiedenis,Oss,heemkunde</itunes:keywords>
@@ -31,11 +32,63 @@
         </image>
 
         <item>
+            <title>De 24 uur van Oss BONUS: coureur Tonny van Schijndel</title>
+            <description><![CDATA[
+                De vorige aflevering ging over de motorrace De 24 uur van Oss, maar praten over een evenement is toch heel wat anders dan 'm zelf rijden. Daarom praat ik als extraatje nog even verder met coureur Tonny van Schijndel uit Oss over de ervaringen die hij heeft opgedaan tijdens de race. Hij deed mee aan alle edities en heeft twee keer de eerste plaats gehaald.
+            ]]></description>
+            <pubDate>Wed, 13 Oct 2021 04:00:00 GMT</pubDate>
+            <pubDateNL>13 oktober 2021</pubDateNL>
+            <guid isPermaLink="false">0011.mp3</guid>
+
+            <media:content url="http://derestisgeschiedenis.nl/episodes/0011.mp3" duration="1989" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Een speeltuin voor héél Oss</media:title>
+                <media:description><![CDATA[
+                    De "24 uur van Oss" is slechts 7 keer georganiseerd maar het heeft zo'n stempel op de Osse geschiedenis gedrukt dat het in 2009 zelfs aan het Osse canon was toegevoegd als een van de 50 gebeurtenissen van historische waarde. Het was een motorrace die van 1969 tot en met 1975 elk jaar werd gehouden en was vanaf het begin al een publiekstrekker. Het was echter ook een gevaarlijke race en dat heeft het evenement uiteindelijk de das om gedaan. Gast: Mari van Kasteren die een boek heeft gemaakt over de 24 uur van Oss. Geïnteresseerd in het boek? Mail naar nmbwegraces@gmail.com.
+                ]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
+                <media:keywords>geschiedenis,heemkunde,Oss,motor,race</media:keywords>
+            </media:content>
+
+            <enclosure url="http://derestisgeschiedenis.nl/episodes/0011.mp3" length="39797855" type="audio/mpeg"/>
+            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
+            <webimage href="episodes/0011-cover-small.jpg?v=1"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:33:09</itunes:duration>
+        </item>
+
+        <item>
+            <title>De 24 uur van Oss</title>
+            <description><![CDATA[
+                De vorige aflevering ging over de motorrace De 24 uur van Oss, maar praten over een evenement is toch heel wat anders dan 'm zelf rijden. Daarom praat ik als extraatje nog even verder met coureur Tonny van Schijndel uit Oss over de ervaringen die hij heeft opgedaan tijdens de race. Hij deed mee aan alle edities en heeft twee keer de eerste plaats gehaald.
+            ]]></description>
+            <pubDate>Sun, 3 Oct 2021 04:00:00 GMT</pubDate>
+            <pubDateNL>3 oktober 2021</pubDateNL>
+            <guid isPermaLink="false">0010.mp3</guid>
+
+            <media:content url="http://derestisgeschiedenis.nl/episodes/0010.mp3" duration="2452" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Een speeltuin voor héél Oss</media:title>
+                <media:description><![CDATA[
+                    De "24 uur van Oss" is slechts 7 keer georganiseerd maar het heeft zo'n stempel op de Osse geschiedenis gedrukt dat het in 2009 zelfs aan het Osse canon was toegevoegd als een van de 50 gebeurtenissen van historische waarde. Het was een motorrace die van 1969 tot en met 1975 elk jaar werd gehouden en was vanaf het begin al een publiekstrekker. Het was echter ook een gevaarlijke race en dat heeft het evenement uiteindelijk de das om gedaan. Gast: Mari van Kasteren die een boek heeft gemaakt over de 24 uur van Oss. Geïnteresseerd in het boek? Mail naar nmbwegraces@gmail.com.
+                ]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
+                <media:keywords>geschiedenis,heemkunde,Oss,motor,race</media:keywords>
+            </media:content>
+
+            <enclosure url="http://derestisgeschiedenis.nl/episodes/0010.mp3" length="49041324" type="audio/mpeg"/>
+            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
+            <webimage href="episodes/0010-cover-small.jpg?v=1"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:40:52</itunes:duration>
+        </item>
+
+        <item>
             <title>Burgemeester in oorlogstijd: Louis de Bourbon</title>
             <description><![CDATA[
                 Een van de meer kleurrijke én controversiële burgemeesters van Oss is toch wel Louis de Bourbon. Ook al was hij in totaal maar 4 jaar in functie, toch valt er genoeg over hem te vertellen om een aflevering te vullen. Zo was De Bourbon burgemeester in oorlogstijd en is postuum onderscheiden met de Israëlische Yad Vashem voor zijn verzetsdaden. Maar hij was ook overtuigd dat hij een directe afstammeling was van het Franse koningshuis en hield zich niet altijd aan het protocol. Gast: Wick den Ridder. Hij publiceerde 2 boeken over de burgemeester.
             ]]></description>
-            <pubDate>Tue, 15 June 2021 04:00:00 GMT</pubDate>
+            <pubDate>Tue, 15 Jun 2021 04:00:00 GMT</pubDate>
             <pubDateNL>15 juni 2021</pubDateNL>
             <guid isPermaLink="false">0009.mp3</guid>
 
@@ -61,7 +114,7 @@
             <description><![CDATA[
                 Tegenwoordig zijn er -mits er geen pandemie heerst- legio speelplaatsen waar je met je kind naar toe kan gaan. Maar wat nu een lucratieve markt lijkt te zijn, was begin jaren 90 blijkbaar nog een onontgonnen gebied. Het was in die tijd dat Mari-Anne Marijnissen samen met Marleen Claassen onder de paraplu van de SP een actie begon voor een goede, grote speeltuin. Initieel voor de buurt maar al snel voor héél Oss. Dat was iets wat toen niet hoog op de agenda stond van het toenmalige college in Oss. Gasten: initiatiefnemer Mari-Anne Marijnissen en de huidige voorzitter van de stichting van de speeltuin, Wim van Dorst.
             ]]></description>
-            <pubDate>Wed, 9 June 2021 04:00:00 GMT</pubDate>
+            <pubDate>Wed, 9 Jun 2021 04:00:00 GMT</pubDate>
             <pubDateNL>9 juni 2021</pubDateNL>
             <guid isPermaLink="false">0008.mp3</guid>
 
@@ -87,7 +140,7 @@
             <description><![CDATA[
                 150 jaar geleden werd in Oss begonnen met de productie van margarine. De fabriek bij de Grote Kerk was de eerste van formaat in Europa die dit nieuwe product ging maken. Het heeft ruim 50 jaar lang de economie van Oss sterk beïnvloed. De margarine-industrie in Oss heeft direct bijgedragen aan de twee donkere periodes in Oss waarbij fabrieken sloten en onrust en criminaliteit tot ongekende dieptepunten kwam. Verder heeft de rivaliteit en uiteindelijke verzoekening van de Osse families Jurgens en Van den Bergh aan de wieg gestaan van de oprichting van Unilever.
             ]]></description>
-            <pubDate>Sun, 1 May 2021 04:00:00 GMT</pubDate>
+            <pubDate>Sat, 1 May 2021 04:00:00 GMT</pubDate>
             <pubDateNL>1 mei 2021</pubDateNL>
             <guid isPermaLink="false">0007.mp3</guid>
 
@@ -113,7 +166,7 @@
             <description><![CDATA[
                 In februari 2021 werd een actie op poten gezet om de naam van het Meester Gielenplein in Berghem te behouden. Waarom zo'n heisa over de naam van een plein? Samen met Leo Hoeks bespreken we het leven van Jacques Gielen in Berghem tussen 1926 en 1968 wat regelmatig ronduit frustrerend was vanwege jarenlange en vergaande tegenwerking van het establishment in het dorp. De strijd mondde uit in drie klinkende verkiezingsoverwinningen waarbij zijn lijst de meerderheid van de raadszetels behaalde maar desondanks er amper van kon genieten vanwege de strijd tegen de burgemeester, ambtenarij en gegoede burgerij die bijna een decennium duurde.
             ]]></description>
-            <pubDate>Sun, 27 March 2021 04:00:00 GMT</pubDate>
+            <pubDate>Sat, 27 Mar 2021 04:00:00 GMT</pubDate>
             <pubDateNL>27 maart 2021</pubDateNL>
             <guid isPermaLink="false">0006.mp3</guid>
 
@@ -139,7 +192,7 @@
             <description><![CDATA[
                 Oss heeft een van de grootste schuilkelders in Nederland en die wordt binnenkort een gemeentelijk monument waarmee het complex voor de toekomst is veilig gesteld. Het complex in het centrum tussen het Heschepad en de Molenstraat is niet alleen een bezienswaardigheid maar vertelt ook het grote verhaal van de koude oorlog en het kleine verhaal van de protesten rond de bouw van deze schuilkelder. Bekijk de schuilkelder in deze korte video van het stadsarchief: https://youtu.be/9p_h4Wgf8KU. Na corona kan je weer een rondleiding aanvragen via https://www.maaslandgildeoss.nl.
             ]]></description>
-            <pubDate>Sun, 15 November 2020 04:00:00 GMT</pubDate>
+            <pubDate>Sun, 15 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>15 november 2020</pubDateNL>
             <guid isPermaLink="false">0005.mp3</guid>
 
@@ -165,7 +218,7 @@
             <description><![CDATA[
                 Naast de Maas hadden we tot de Tweede Wereldoorlog nog een andere rivier. Tot die tijd kon de Maas namelijk tussen Grave en Cuijk uit haar oevers treden en een tweede, tijdelijke rivier creëren die ook door het Osse landschap liep. Een groot gebied ten noorden van de stad Oss kwam zo met regelmaat blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien hoe ver het water kwam in 1876: http://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg
             ]]></description>
-            <pubDate>Sun, 7 November 2020 04:00:00 GMT</pubDate>
+            <pubDate>Sat, 7 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>7 november 2020</pubDateNL>
             <guid isPermaLink="false">0004.mp3</guid>
 
@@ -193,7 +246,7 @@
                 
                 Cover: de in 1626 herbouwde kerk. (Rijksdienst voor het Cultureel Erfgoed https://commons.wikimedia.org/w/index.php?curid=23598037)
             ]]></description>
-            <pubDate>Sun, 1 November 2020 04:00:00 GMT</pubDate>
+            <pubDate>Sun, 1 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>1 november 2020</pubDateNL>
             <guid isPermaLink="false">0003.mp3</guid>
 
@@ -221,7 +274,7 @@
             <description>
                 Oss had er heel anders uit kunnen zien als de uitbreidingsplannen uit 1918 waren uitgevoerd: een haven op de plek waar nu De Lievekamp staat, een groot stadshuis aan De Heuvel en als klap op de vuurpijl een perfect cirkelvormige rondweg. Architect Charles Estourgie had grootse plannen en samnegevat in een grootse plattegrond van dat ideale Oss. Geen vereiste maar wel handig: check de kaart op http://derestisgeschiedenis.nl/episodes/0002-Uitbreidingsplan-Oss-1918.jpg voordat je de podcast luistert of als je de kaart wil afdrukken.
             </description>
-            <pubDate>Sun, 13 August 2020 04:00:00 GMT</pubDate>
+            <pubDate>Thu, 13 Aug 2020 04:00:00 GMT</pubDate>
             <pubDateNL>13 augustus 2020</pubDateNL>
             <guid isPermaLink="false">0002.mp3</guid>
 
@@ -247,7 +300,7 @@
             <description>
                 Persfotograaf Daan Scholte werkt tussen 1947 en 1966 voor het "Dagblad voor Oss en Omstreken" wat later opging in het Brabants Dagbled. Hij liet 47.000 foto-negatieven achter. De collectie geeft een mooi tijdsbeeld van het naoorlogse Oss. Heel mooi, maar wat doe je met zoveel ongedocumenteerde negatieven? Interview met Jurgen Pigmans van Stadsarchief Oss en Jan Ulijn van de "Daan Scholte-groep". De foto's van Daan Scholte en anderen zijn terug te vinden op http://osspubliek.hosting.deventit.net.
             </description>
-            <pubDate>Sun, 06 June 2020 04:00:00 GMT</pubDate>
+            <pubDate>Sat, 06 Jun 2020 04:00:00 GMT</pubDate>
             <pubDateNL>6 juni 2020</pubDateNL>
             <guid isPermaLink="false">0001.mp3</guid>
 
@@ -264,7 +317,6 @@
             <enclosure url="http://derestisgeschiedenis.nl/episodes/0001.mp3" length="38731647" type="audio/mpeg"/>
             <itunes:image href="http://derestisgeschiedenis.nl/episodes/0001-cover.jpg?v=1"/>
             <webimage href="episodes/0001-cover-small.jpg?v=1"/>
-            <webimageversion href="1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:45:04</itunes:duration>
         </item>

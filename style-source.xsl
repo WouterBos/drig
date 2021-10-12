@@ -7,7 +7,7 @@
 			<head>
 				<meta charset="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="stylesheet" type="text/css" href="style.css?v=10"></link>
+				<link rel="stylesheet" type="text/css" href="style.css?v=11"></link>
 				<meta name="description" content="{ title } - { description }" />
 				<link rel="alternate" type="application/rss+xml" title="{ title }" href="podcast.xml" />
 				<link rel="shortcut icon" href="favicon.ico"></link>

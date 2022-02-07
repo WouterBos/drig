@@ -127,7 +127,7 @@ ul.posts h2 {
   display: flex;
   align-items: flex-start;
   color: $color-heading;
-  font-size: calc(2vw + 1em);
+  font-size: clamp(1rem, calc(2vw + 1em), 2.8rem);
   font-weight: normal;
   letter-spacing: -0.03em;
 }
@@ -170,6 +170,7 @@ ul.posts p {
 
 ul.posts .play-box {
   display: inline-block;
+  position: relative;
 }
 ul.posts .play-box .play-box__link {
   display: inline-block;

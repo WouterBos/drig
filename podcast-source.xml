@@ -4,14 +4,14 @@
         <atom:link href="http://derestisgeschiedenis.nl/podcast.xml" rel="self" type="application/rss+xml" />
         <title>De Rest Is Geschiedenis</title>
         <link>http://derestisgeschiedenis.nl</link>
-        <description>Geschiedenis in de gemeente Oss. Simpel en levendig gebracht met interviews.</description>
+        <description>Interviews over historische gebeurtenissen in de gemeente Oss.</description>
         <managingEditor>wouter@bososs.nl (Wouter Bos)</managingEditor>
         <webMaster>wouter@bososs.nl (Wouter Bos)</webMaster>
         <language>nl-nl</language>
         <copyright>Copyright (C) 2020 De Rest Is Geschiedenis</copyright>
         <creativeCommons:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-        <pubDate>Sun, 10 May 2020 04:00:00 GMT</pubDate>
-        <lastBuildDate>Thu, 14 May 2020 00:00:00 GMT</lastBuildDate>
+        <pubDate>Mon, 5 Jul 2022 04:00:00 GMT</pubDate>
+        <lastBuildDate>Mon, 5 Jul 2022 04:00:00 GMT</lastBuildDate>
         <docs>http://www.rssboard.org/rss-specification</docs>
         <itunes:author>Wouter Bos</itunes:author>
         <itunes:keywords>geschiedenis,Oss,heemkunde</itunes:keywords>
@@ -30,6 +30,62 @@
             <title>De Rest Is Geschiedenis</title>
             <link>http://derestisgeschiedenis.nl</link>
         </image>
+
+        <item>
+            <title>Familiegeschiedenis van de aanstichtichters van de moord op wachtmeester Hoekman</title>
+            <description><![CDATA[
+                Een van de belangrijkste momenten in de criminele geschiedenis van Oss is toch wel de moord op wachtmeester Hoekman in 1893. De moord wordt gezien als het dieptepunt van een van de donkerste periodes van Oss waar criminaliteit, aangejaagd door een hoge werkeloosheid, schering en inslag was. De moord is dan ook uitgebreid beschreven, onderzocht en van verschillende invalshoeken bekeken. Willem van den Elzen heeft zich verdiept in hoe het zover heeft kunnen komen en dat doen we door naar de familiegeschiedenis te kijken van de Van Berkoms.
+            ]]></description>
+            <pubDate>Mon, 5 Sept 2022 04:00:00 GMT</pubDate>
+            <pubDateNL>5 september 2022</pubDateNL>
+            <guid isPermaLink="false">0015.mp3</guid>
+
+            <media:content url="http://derestisgeschiedenis.nl/episodes/0015.mp3" duration="3272" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Familiegeschiedenis van de aanstichtichters van de moord op wachtmeester Hoekman</media:title>
+                <media:description><![CDATA[
+                Een van de belangrijkste momenten in de criminele geschiedenis van Oss is toch wel de moord op wachtmeester Hoekman in 1893. De moord wordt gezien als het dieptepunt van een van de donkerste periodes van Oss waar criminaliteit, aangejaagd door een hoge werkeloosheid, schering en inslag was. De moord is dan ook uitgebreid beschreven, onderzocht en van verschillende invalshoeken bekeken. Willem van den Elzen heeft zich verdiept in hoe het zover heeft kunnen komen en dat doen we door naar de familiegeschiedenis te kijken van de Van Berkoms.
+                ]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
+                <media:keywords>geschiedenis,heemkunde,Ravenstein,1672,Rampjaar</media:keywords>
+            </media:content>
+
+            <enclosure url="http://derestisgeschiedenis.nl/episodes/0015.mp3" length="65453727" type="audio/mpeg"/>
+            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
+            <webimage href="episodes/0015-cover-small.jpg?v=1"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:54:32</itunes:duration>
+        </item>
+
+        <item>
+            <title>Waarom rampjaar 1672 in Ravenstein gevierd wordt</title>
+            <description><![CDATA[
+                De Gouden Eeuw is al lang een bron van trots voor Nederlanders en is dan ook een vast onderdeel tijdens geschiedenislessen op scholen. Maar ondanks wat de naam doet vermoeden had niet alles in die tijd een gouden rand. De laatste jaren is er dan ook meer aandacht gekomen voor de schaduwzijde van die roemruchte periode als armoede en kolonisering.
+                Ook was de Gouden Eeuw niet voor ieder gebied in Nederland van toepassing. Zo was een groot deel van het huidige Noord-Brabant generaliteitsland wat kortweg inhield dat het onderdeel was van de Nederlanden maar niks te vertellen had. Deze gebieden werden beschouwd als bufferzones bij een aanval uit het zuiden en werden bestuurd als koloniën.
+                Ook al viel het Land van Ravenstein toen niet onder Nederlands gezag, maar die van het Duitse Pfalz-Neuburg, toch had het veel van doen met wat er in de Nederlanden gebeurde en dat was niet altijd positief. Dus toen de Gouden Eeuw in 1672 abrupt eindigde met wat het Rampjaar is gaan heten, waren ze in Ravenstein er minder rouwig om. Sterker: het 350-jaar jubileum werd dit jaar in Ravenstein gevierd als het Jubeljaar. Aan tafel zitten Theo van Duren van de Vrijstaat van het land van Ravenstein en Martin Jan van Mourik van de Ravensteinse Loterijfonds die meer daarover kunnen vertellen.
+            ]]></description>
+            <pubDate>Mon, 5 Jul 2022 04:00:00 GMT</pubDate>
+            <pubDateNL>5 juli 2022</pubDateNL>
+            <guid isPermaLink="false">0014.mp3</guid>
+
+            <media:content url="http://derestisgeschiedenis.nl/episodes/0014.mp3" duration="2240" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Waarom rampjaar 1672 in Ravenstein gevierd wordt</media:title>
+                <media:description><![CDATA[
+                De Gouden Eeuw is al lang een bron van trots voor Nederlanders en is dan ook een vast onderdeel tijdens geschiedenislessen op scholen. Maar ondanks wat de naam doet vermoeden had niet alles in die tijd een gouden rand. De laatste jaren is er dan ook meer aandacht gekomen voor de schaduwzijde van die roemruchte periode als armoede en kolonisering.
+                Ook was de Gouden Eeuw niet voor ieder gebied in Nederland van toepassing. Zo was een groot deel van het huidige Noord-Brabant generaliteitsland wat kortweg inhield dat het onderdeel was van de Nederlanden maar niks te vertellen had. Deze gebieden werden beschouwd als bufferzones bij een aanval uit het zuiden en werden bestuurd als koloniën.
+                Ook al viel het Land van Ravenstein toen niet onder Nederlands gezag, maar die van het Duitse Pfalz-Neuburg, toch had het veel van doen met wat er in de Nederlanden gebeurde en dat was niet altijd positief. Dus toen de Gouden Eeuw in 1672 abrupt eindigde met wat het Rampjaar is gaan heten, waren ze in Ravenstein er minder rouwig om. Sterker: het 350-jaar jubileum werd dit jaar in Ravenstein gevierd als het Jubeljaar. Aan tafel zitten Theo van Duren van de Vrijstaat van het land van Ravenstein en Martin Jan van Mourik van de Ravensteinse Loterijfonds die meer daarover kunnen vertellen.
+                ]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
+                <media:keywords>geschiedenis,heemkunde,Ravenstein,1672,Rampjaar</media:keywords>
+            </media:content>
+
+            <enclosure url="http://derestisgeschiedenis.nl/episodes/0014.mp3" length="44801656" type="audio/mpeg"/>
+            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
+            <webimage href="episodes/0014-cover-small.jpg?v=1"/>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:37:20</itunes:duration>
+        </item>
 
         <item>
             <title>De eerste Osse beroepsfotograaf Adrianus van de Rakt BONUS</title>
@@ -54,7 +110,7 @@
             <itunes:image href="http://derestisgeschiedenis.nl/episodes/0013-cover.jpg?v=1"/>
             <webimage href="episodes/0013-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>0:6:37</itunes:duration>
+            <itunes:duration>0:06:37</itunes:duration>
         </item>
 
         <item>
@@ -66,7 +122,7 @@
             <pubDateNL>24 januari 2022</pubDateNL>
             <guid isPermaLink="false">0012.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0012.mp3" duration="1723" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="http://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" duration="1728" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De eerste Osse beroepsfotograaf Adrianus van de Rakt</media:title>
                 <media:description><![CDATA[
                 Het Stadsarchief Oss ontving eind 2021 een stapeltje foto's, afdrukken van glasplaten, met daarop het Oss van ruim een eeuw geleden. Deze werden geschonken door Broer van Gestel, een kleinzoon van Adrianus van de Rakt, de fotograaf van deze unieke foto's. Over de fotograaf en de betekenis van zijn collectie, praat ik met Jurgen Pigmans van het Stadsarchief.
@@ -76,11 +132,11 @@
                 <media:keywords>geschiedenis,heemkunde,fotografie,Adrianus van de Rakt,Oss</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0012.mp3" length="34467304" type="audio/mpeg"/>
+            <enclosure url="http://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" length="34552811" type="audio/mpeg"/>
             <itunes:image href="http://derestisgeschiedenis.nl/episodes/0012-cover.jpg?v=1"/>
             <webimage href="episodes/0012-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:duration>0:28:43</itunes:duration>
+            <itunes:duration>0:28:47</itunes:duration>
         </item>
 
         <item>

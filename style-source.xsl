@@ -26,13 +26,13 @@
 						<p>
 							<b>Abonneer</b> op deze podcast via <a class="textlink" href="https://podcasts.apple.com/nl/podcast/de-rest-is-geschiedenis/id1517155449">iTunes</a>,
 							<a class="textlink" href="https://open.spotify.com/show/2Kvn8qXKPrY6XHHiOCYtkt">Spotify</a>,
-							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cHM6Ly9idWZmLmx5LzJ6WWRkcGY">Google Podcasts</a> of
+							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cDovL2RlcmVzdGlzZ2VzY2hpZWRlbmlzLm5sL3BvZGNhc3QueG1s">Google Podcasts</a> of
 							<a class="textlink" href="https://www.iheart.com/podcast/269-de-rest-is-geschiedenis-65031930/">iHeartRadio</a>.
-							Degenen die liever direct abonneren via podcast feeds kunnen dat met deze link: <span class="rssLink">http://derestisgeschiedenis.nl/podcast.xml</span>
+							Abonneer je liever via een RSS feed? Gebruik dan deze link: <span class="rssLink">http://derestisgeschiedenis.nl/podcast.xml</span>
 						</p>
 
 						<p>
-							<b>Deel</b> deze podcast als je 'm leuk vindt en wil dat anderen dit ook ontdekken. Laat een review achter in je podcast app en deel deze pagina op social media.
+							<b>Deel</b> deze podcast als je die leuk vindt en wil dat anderen dit ook ontdekken. Laat een review achter in je podcast app en deel deze pagina op social media.
 						</p>
 					</section>
 

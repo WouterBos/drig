@@ -28,7 +28,7 @@
 							<a class="textlink" href="https://open.spotify.com/show/2Kvn8qXKPrY6XHHiOCYtkt">Spotify</a>,
 							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cDovL2RlcmVzdGlzZ2VzY2hpZWRlbmlzLm5sL3BvZGNhc3QueG1s">Google Podcasts</a> of
 							<a class="textlink" href="https://www.iheart.com/podcast/269-de-rest-is-geschiedenis-65031930/">iHeartRadio</a>.
-							Abonneer je liever via een RSS feed? Gebruik dan deze link: <span class="rssLink">http://derestisgeschiedenis.nl/podcast.xml</span>
+							Abonneer je liever via een RSS feed? Gebruik dan deze URL: <span class="rssLink">https://derestisgeschiedenis.nl/podcast.xml</span>
 						</p>
 
 						<p>
@@ -50,12 +50,6 @@
 														'.avif',
 														substring-after(*[local-name()='webimage']/@href,'.jpg')
 													)}" type="image/avif" />
-										  	<source srcset="{
-													concat(
-														substring-before(*[local-name()='webimage']/@href,'.jpg'),
-														'.webp',
-														substring-after(*[local-name()='webimage']/@href,'.jpg')
-													)}" type="image/webp" />
 											</xsl:if>
   										<img src="{ *[local-name()='webimage']/@href }" width="400" height="400" alt="" loading="lazy" />
 										</picture>

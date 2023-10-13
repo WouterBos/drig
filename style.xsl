@@ -2,17 +2,12 @@
 							<a class="textlink" href="https://open.spotify.com/show/2Kvn8qXKPrY6XHHiOCYtkt">Spotify</a>,
 							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cDovL2RlcmVzdGlzZ2VzY2hpZWRlbmlzLm5sL3BvZGNhc3QueG1s">Google Podcasts</a> of
 							<a class="textlink" href="https://www.iheart.com/podcast/269-de-rest-is-geschiedenis-65031930/">iHeartRadio</a>.
-							Abonneer je liever via een RSS feed? Gebruik dan deze link: <span class="rssLink">http://derestisgeschiedenis.nl/podcast.xml</span></p><p><b>Deel</b> deze podcast als je die leuk vindt en wil dat anderen dit ook ontdekken. Laat een review achter in je podcast app en deel deze pagina op social media.
+							Abonneer je liever via een RSS feed? Gebruik dan deze URL: <span class="rssLink">https://derestisgeschiedenis.nl/podcast.xml</span></p><p><b>Deel</b> deze podcast als je die leuk vindt en wil dat anderen dit ook ontdekken. Laat een review achter in je podcast app en deel deze pagina op social media.
 						</p></section><ul class="posts"><x:for-each select="./item"><li id="{ concat('episode', substring-before(guid, '.mp3')) }"><h2><a href="{ substring-after(*[local-name()='image']/@href,'derestisgeschiedenis.nl/') }" title="Bekijk afbeelding" class="episode-cover"><picture><x:if test="contains(*[local-name()='webimage']/@href, 'jpg')"><source srcset="{
 													concat(
 														substring-before(*[local-name()='webimage']/@href,'.jpg'),
 														'.avif',
 														substring-after(*[local-name()='webimage']/@href,'.jpg')
-													)}" type="image/avif"/><source srcset="{
-													concat(
-														substring-before(*[local-name()='webimage']/@href,'.jpg'),
-														'.webp',
-														substring-after(*[local-name()='webimage']/@href,'.jpg')
-													)}" type="image/webp"/></x:if><img src="{ *[local-name()='webimage']/@href }" width="400" height="400" alt="" loading="lazy"/></picture></a><span class="episode-title"><x:value-of select="title"/></span></h2><div class="play-box"><div class="play-box__link"><a href="{ substring-after(*[local-name()='content']/@url,'derestisgeschiedenis.nl/') }">
+													)}" type="image/avif"/></x:if><img src="{ *[local-name()='webimage']/@href }" width="400" height="400" alt="" loading="lazy"/></picture></a><span class="episode-title"><x:value-of select="title"/></span></h2><div class="play-box"><div class="play-box__link"><a href="{ substring-after(*[local-name()='content']/@url,'derestisgeschiedenis.nl/') }">
 											Beluister
 											<span class="hideOnMobile">aflevering</span></a></div><time class="time" datetime="{ *[local-name()='duration'] }">duur: <x:value-of select="*[local-name()='duration']"/></time></div><p><time class="pubDate" datetime="{ pubDate }"><x:value-of select="pubDateNL"/></time><x:value-of select="description"/></p></li></x:for-each></ul></div></body></html></x:template></x:stylesheet>

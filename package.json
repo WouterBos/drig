@@ -1,6 +1,6 @@
 {
    "name": "DRIG",
-   "version": "1.0.0",
+   "version": "1.1.0",
    "description": "De Rest Is Geschiedenis website",
    "scripts": {
       "lite": "lite-server --port 10001",

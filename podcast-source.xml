@@ -1,9 +1,9 @@
-<?xml-stylesheet type="text/xsl" href="style.xsl?v=5" media="screen" ?>
+<?xml-stylesheet type="text/xsl" href="style.xsl?v=12" media="screen" ?>
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <atom:link href="http://derestisgeschiedenis.nl/podcast.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://derestisgeschiedenis.nl/podcast.xml" rel="self" type="application/rss+xml" />
         <title>De Rest Is Geschiedenis</title>
-        <link>http://derestisgeschiedenis.nl</link>
+        <link>https://derestisgeschiedenis.nl</link>
         <description>Interviews over historische gebeurtenissen in de gemeente Oss.</description>
         <managingEditor>wouter@bososs.nl (Wouter Bos)</managingEditor>
         <webMaster>wouter@bososs.nl (Wouter Bos)</webMaster>
@@ -16,9 +16,9 @@
         <itunes:author>Wouter Bos</itunes:author>
         <itunes:keywords>geschiedenis,Oss,heemkunde</itunes:keywords>
         <itunes:category text="History"/>
-        <itunes:image href="http://derestisgeschiedenis.nl/logo-drig.png"/>
+        <itunes:image href="https://derestisgeschiedenis.nl/logo-drig.png"/>
         <itunes:explicit>clean</itunes:explicit>
-        <itunes:new-feed-url>http://derestisgeschiedenis.nl/podcast.xml</itunes:new-feed-url>
+        <itunes:new-feed-url>https://derestisgeschiedenis.nl/podcast.xml</itunes:new-feed-url>
 
         <itunes:owner>
 			<itunes:name><![CDATA[Wouter Bos]]></itunes:name>
@@ -26,13 +26,13 @@
 		</itunes:owner>
 
         <image>
-            <url>http://derestisgeschiedenis.nl/logo-drig.png</url>
+            <url>https://derestisgeschiedenis.nl/logo-drig.png</url>
             <title>De Rest Is Geschiedenis</title>
-            <link>http://derestisgeschiedenis.nl</link>
+            <link>https://derestisgeschiedenis.nl</link>
         </image>
 
         <item>
-            <title>Familiegeschiedenis van de aanstichtichters van de moord op wachtmeester Hoekman</title>
+            <title>Familiegeschiedenis van de aanstichters van de moord op wachtmeester Hoekman</title>
             <description><![CDATA[
                 Een van de belangrijkste momenten in de criminele geschiedenis van Oss is toch wel de moord op wachtmeester Hoekman in 1893. De moord wordt gezien als het dieptepunt van een van de donkerste periodes van Oss waar criminaliteit, aangejaagd door een hoge werkeloosheid, schering en inslag was. De moord is dan ook uitgebreid beschreven, onderzocht en van verschillende invalshoeken bekeken. Willem van den Elzen heeft zich verdiept in hoe het zover heeft kunnen komen en dat doen we door naar de familiegeschiedenis te kijken van de Van Berkoms.
             ]]></description>
@@ -40,18 +40,18 @@
             <pubDateNL>5 september 2022</pubDateNL>
             <guid isPermaLink="false">0015.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0015.mp3" duration="3272" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
-                <media:title type="plain">Familiegeschiedenis van de aanstichtichters van de moord op wachtmeester Hoekman</media:title>
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0015.mp3" duration="3272" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Familiegeschiedenis van de aanstichters van de moord op wachtmeester Hoekman</media:title>
                 <media:description><![CDATA[
                 Een van de belangrijkste momenten in de criminele geschiedenis van Oss is toch wel de moord op wachtmeester Hoekman in 1893. De moord wordt gezien als het dieptepunt van een van de donkerste periodes van Oss waar criminaliteit, aangejaagd door een hoge werkeloosheid, schering en inslag was. De moord is dan ook uitgebreid beschreven, onderzocht en van verschillende invalshoeken bekeken. Willem van den Elzen heeft zich verdiept in hoe het zover heeft kunnen komen en dat doen we door naar de familiegeschiedenis te kijken van de Van Berkoms.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,Hoekman,Van Berkom,criminaliteit</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0015.mp3" length="65453727" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0015.mp3" length="65453727" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0015-cover.jpg?v=1"/>
             <webimage href="episodes/0015-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:54:32</itunes:duration>
@@ -68,7 +68,7 @@
             <pubDateNL>5 juli 2022</pubDateNL>
             <guid isPermaLink="false">0014.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0014.mp3" duration="2240" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0014.mp3" duration="2240" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Waarom rampjaar 1672 in Ravenstein gevierd wordt</media:title>
                 <media:description><![CDATA[
                 De Gouden Eeuw is al lang een bron van trots voor Nederlanders en is dan ook een vast onderdeel tijdens geschiedenislessen op scholen. Maar ondanks wat de naam doet vermoeden had niet alles in die tijd een gouden rand. De laatste jaren is er dan ook meer aandacht gekomen voor de schaduwzijde van die roemruchte periode als armoede en kolonisering.
@@ -76,12 +76,12 @@
                 Ook al viel het Land van Ravenstein toen niet onder Nederlands gezag, maar die van het Duitse Pfalz-Neuburg, toch had het veel van doen met wat er in de Nederlanden gebeurde en dat was niet altijd positief. Dus toen de Gouden Eeuw in 1672 abrupt eindigde met wat het Rampjaar is gaan heten, waren ze in Ravenstein er minder rouwig om. Sterker: het 350-jaar jubileum werd dit jaar in Ravenstein gevierd als het Jubeljaar. Aan tafel zitten Theo van Duren van de Vrijstaat van het land van Ravenstein en Martin Jan van Mourik van de Ravensteinse Loterijfonds die meer daarover kunnen vertellen.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Ravenstein,1672,Rampjaar</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0014.mp3" length="44801656" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0014.mp3" length="44801656" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1"/>
             <webimage href="episodes/0014-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:37:20</itunes:duration>
@@ -96,18 +96,18 @@
             <pubDateNL>31 januari 2022</pubDateNL>
             <guid isPermaLink="false">0013.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0013.mp3" duration="397" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0013.mp3" duration="397" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De eerste Osse beroepsfotograaf Adrianus van de Rakt BONUS</media:title>
                 <media:description><![CDATA[
                 Een korte bonusaflevering als aanvulling op de vorige aflevering over de foto's van Adrianus van de Rakt. Ik was aanwezig bij de opening van de fototentoonstelling in het Stadsarchief van Oss en ik stelde daar wat vragen aan Broer van Gestel, de kleinzoon van Adrianus van de Rakt en de donateur van de foto's van de tentoonstelling. Mijn stem klinkt wat gemoffeld door mijn mondkapje.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0013-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0013-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,fotografie,Adrianus van de Rakt,Oss,Broer van Gestel</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0013.mp3" length="7957213" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0013-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0013.mp3" length="7957213" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0013-cover.jpg?v=1"/>
             <webimage href="episodes/0013-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:06:37</itunes:duration>
@@ -122,18 +122,18 @@
             <pubDateNL>24 januari 2022</pubDateNL>
             <guid isPermaLink="false">0012.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" duration="1728" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" duration="1728" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De eerste Osse beroepsfotograaf Adrianus van de Rakt</media:title>
                 <media:description><![CDATA[
                 Het Stadsarchief Oss ontving eind 2021 een stapeltje foto's, afdrukken van glasplaten, met daarop het Oss van ruim een eeuw geleden. Deze werden geschonken door Broer van Gestel, een kleinzoon van Adrianus van de Rakt, de fotograaf van deze unieke foto's. Over de fotograaf en de betekenis van zijn collectie, praat ik met Jurgen Pigmans van het Stadsarchief.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0012-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0012-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,fotografie,Adrianus van de Rakt,Oss</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" length="34552811" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0012-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0012.mp3?v=2" length="34552811" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0012-cover.jpg?v=1"/>
             <webimage href="episodes/0012-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:28:47</itunes:duration>
@@ -148,18 +148,18 @@
             <pubDateNL>13 oktober 2021</pubDateNL>
             <guid isPermaLink="false">0011.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0011.mp3" duration="1989" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0011.mp3" duration="1989" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De 24 uur van Oss BONUS: coureur Tonny van Schijndel</media:title>
                 <media:description><![CDATA[
                     De vorige aflevering ging over de motorrace De 24 uur van Oss, maar praten over een evenement is toch heel wat anders dan 'm zelf rijden. Daarom praat ik als extraatje nog even verder met coureur Tonny van Schijndel uit Oss over de ervaringen die hij heeft opgedaan tijdens de race. Hij deed mee aan alle edities en heeft twee keer de eerste plaats gehaald.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,motor,race</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0011.mp3" length="39797855" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0011.mp3" length="39797855" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0011-cover.jpg?v=1"/>
             <webimage href="episodes/0011-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:33:09</itunes:duration>
@@ -174,18 +174,18 @@
             <pubDateNL>3 oktober 2021</pubDateNL>
             <guid isPermaLink="false">0010.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0010.mp3" duration="2452" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0010.mp3" duration="2452" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De 24 uur van Oss</media:title>
                 <media:description><![CDATA[
                     De '24 uur van Oss' is slechts 7 keer georganiseerd maar het heeft zo'n stempel op de Osse geschiedenis gedrukt dat het in 2009 zelfs aan het Osse canon was toegevoegd als een van de 50 gebeurtenissen van historische waarde. Het was een motorrace die van 1969 tot en met 1975 elk jaar werd gehouden en was vanaf het begin al een publiekstrekker. Het was echter ook een gevaarlijke race en dat heeft het evenement uiteindelijk de das om gedaan. Gast: Mari van Kasteren die een boek heeft gemaakt over de 24 uur van Oss. Geïnteresseerd in het boek? Mail naar nmbwegraces@gmail.com.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,motor,race</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0010.mp3" length="49041324" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0010.mp3" length="49041324" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1"/>
             <webimage href="episodes/0010-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:40:52</itunes:duration>
@@ -200,18 +200,18 @@
             <pubDateNL>15 juni 2021</pubDateNL>
             <guid isPermaLink="false">0009.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0009.mp3" duration="3207" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0009.mp3" duration="3207" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Burgemeester in oorlogstijd: Louis de Bourbon</media:title>
                 <media:description><![CDATA[
                     Een van de meer kleurrijke én controversiële burgemeesters van Oss is toch wel Louis de Bourbon. Ook al was hij in totaal maar 4 jaar in functie, toch valt er genoeg over hem te vertellen om een aflevering te vullen. Zo was De Bourbon burgemeester in oorlogstijd en is postuum onderscheiden met de Israëlische Yad Vashem voor zijn verzetsdaden. Maar hij was ook overtuigd dat hij een directe afstammeling was van het Franse koningshuis en hield zich niet altijd aan het protocol. Gast: Wick den Ridder. Hij publiceerde 2 boeken over de burgemeester.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0009-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0009-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,politiek,WOII,Tweede Wereldoorlog</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0009.mp3" length="64148446" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0009-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0009.mp3" length="64148446" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0009-cover.jpg?v=1"/>
             <webimage href="episodes/0009-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:53:27</itunes:duration>
@@ -226,18 +226,18 @@
             <pubDateNL>9 juni 2021</pubDateNL>
             <guid isPermaLink="false">0008.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0008.mp3" duration="3106" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0008.mp3" duration="3106" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Een speeltuin voor héél Oss</media:title>
                 <media:description><![CDATA[
                     Tegenwoordig zijn er -mits er geen pandemie heerst- legio speelplaatsen waar je met je kind naar toe kan gaan. Maar wat nu een lucratieve markt lijkt te zijn, was begin jaren 90 blijkbaar nog een onontgonnen gebied. Het was in die tijd dat Mari-Anne Marijnissen samen met Marleen Claassen onder de paraplu van de SP een actie begon voor een goede, grote speeltuin. Initieel voor de buurt maar al snel voor héél Oss. Dat was iets wat toen niet hoog op de agenda stond van het toenmalige college in Oss. Gasten: initiatiefnemer Mari-Anne Marijnissen en de huidige voorzitter van de stichting van de speeltuin, Wim van Dorst.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0008-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0008-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,speeltuin,SP</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0008.mp3" length="62130222" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0008-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0008.mp3" length="62130222" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0008-cover.jpg?v=1"/>
             <webimage href="episodes/0008-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:51:46</itunes:duration>
@@ -252,18 +252,18 @@
             <pubDateNL>1 mei 2021</pubDateNL>
             <guid isPermaLink="false">0007.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0007.mp3" duration="2891" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0007.mp3" duration="2891" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">150 jaar geleden start van margarineproductie in Oss</media:title>
                 <media:description><![CDATA[
                     150 jaar geleden werd in Oss begonnen met de productie van margarine. De fabriek bij de Grote Kerk was de eerste van formaat in Europa die dit nieuwe product ging maken. Het heeft ruim 50 jaar lang de economie van Oss sterk beïnvloed. De margarine-industrie in Oss heeft direct bijgedragen aan de twee donkere periodes in Oss waarbij fabrieken sloten en onrust en criminaliteit tot ongekende dieptepunten kwam. Verder heeft de rivaliteit en uiteindelijke verzoekening van de Osse families Jurgens en Van den Bergh aan de wieg gestaan van de oprichting van Unilever.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0007-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0007-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,margarine,Jurgens,industriele revolutie</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0007.mp3" length="38978693" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0007-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0007.mp3" length="38978693" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0007-cover.jpg?v=1"/>
             <webimage href="episodes/0007-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:48:11</itunes:duration>
@@ -278,18 +278,18 @@
             <pubDateNL>27 maart 2021</pubDateNL>
             <guid isPermaLink="false">0006.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0006.mp3" duration="4162" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0006.mp3" duration="4162" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De lange strijd van Jacques Gielen</media:title>
                 <media:description><![CDATA[
                     In februari 2021 werd een actie op poten gezet om de naam van het Meester Gielenplein in Berghem te behouden. Waarom zo'n heisa over de naam van een plein? Samen met Leo Hoeks bespreken we het leven van Jacques Gielen in Berghem tussen 1926 en 1968 wat regelmatig ronduit frustrerend was vanwege jarenlange en vergaande tegenwerking van het establishment in het dorp. De strijd mondde uit in drie klinkende verkiezingsoverwinningen waarbij zijn lijst de meerderheid van de raadszetels behaalde maar desondanks er amper van kon genieten vanwege de strijd tegen de burgemeester, ambtenarij en gegoede burgerij die bijna een decennium duurde.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0006-cover.jpg?v=1"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0006-cover.jpg?v=1"/>
                 <media:keywords>geschiedenis,heemkunde,Berghem, Jacques Gielen,politiek</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0006.mp3" length="55429768" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0006-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0006.mp3" length="55429768" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0006-cover.jpg?v=1"/>
             <webimage href="episodes/0006-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>1:09:22</itunes:duration>
@@ -304,18 +304,18 @@
             <pubDateNL>15 november 2020</pubDateNL>
             <guid isPermaLink="false">0005.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0005.mp3" duration="3180" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0005.mp3" duration="3180" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Als de bom valt in Oss</media:title>
                 <media:description><![CDATA[
                     Oss heeft een van de grootste schuilkelders in Nederland en die wordt binnenkort een gemeentelijk monument waarmee het complex voor de toekomst is veilig gesteld. Het complex in het centrum tussen het Heschepad en de Molenstraat is niet alleen een bezienswaardigheid maar vertelt ook het grote verhaal van de koude oorlog en het kleine verhaal van de protesten rond de bouw van deze schuilkelder. Bekijk de schuilkelder in deze korte video van het stadsarchief: https://youtu.be/9p_h4Wgf8KU. Na corona kan je weer een rondleiding aanvragen via https://www.maaslandgildeoss.nl.
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0005-cover.jpg"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0005-cover.jpg"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,atoombom,schuilkelder,koude oorlog</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0005.mp3" length="45537666" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0005-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0005.mp3" length="45537666" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0005-cover.jpg?v=1"/>
             <webimage href="episodes/0005-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:53:00</itunes:duration>
@@ -324,24 +324,24 @@
         <item>
             <title>De Groene Rivier</title>
             <description><![CDATA[
-                Naast de Maas hadden we tot de Tweede Wereldoorlog nog een andere rivier. Tot die tijd kon de Maas namelijk tussen Grave en Cuijk uit haar oevers treden en een tweede, tijdelijke rivier creëren die ook door het Osse landschap liep. Een groot gebied ten noorden van de stad Oss kwam zo met regelmaat blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien hoe ver het water kwam in 1876: http://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg
+                Naast de Maas hadden we tot de Tweede Wereldoorlog nog een andere rivier. Tot die tijd kon de Maas namelijk tussen Grave en Cuijk uit haar oevers treden en een tweede, tijdelijke rivier creëren die ook door het Osse landschap liep. Een groot gebied ten noorden van de stad Oss kwam zo met regelmaat blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien hoe ver het water kwam in 1876: https://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg
             ]]></description>
             <pubDate>Sat, 7 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>7 november 2020</pubDateNL>
             <guid isPermaLink="false">0004.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0004.mp3" duration="3305" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0004.mp3" duration="3305" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De Groene Rivier</media:title>
                 <media:description><![CDATA[
-                    Naast de Maas hadden we tot de Tweede Wereldoorlog nog een andere rivier. Tot die tijd kon de Maas namelijk tussen Grave en Cuijk uit haar oevers treden en een tweede, tijdelijke rivier creëren die ook door het Osse landschap liep. Een groot gebied ten noorden van de stad Oss kwam zo met regelmaat blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien hoe ver het water kwam in 1876: http://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg
+                    Naast de Maas hadden we tot de Tweede Wereldoorlog nog een andere rivier. Tot die tijd kon de Maas namelijk tussen Grave en Cuijk uit haar oevers treden en een tweede, tijdelijke rivier creëren die ook door het Osse landschap liep. Een groot gebied ten noorden van de stad Oss kwam zo met regelmaat blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien hoe ver het water kwam in 1876: https://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0004-cover.jpg"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0004-cover.jpg"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,Maas,water,Overstroming,Beerse overlaat</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0004.mp3" length="52614264" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0004-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0004.mp3" length="52614264" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0004-cover.jpg?v=1"/>
             <webimage href="episodes/0004-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:55:05</itunes:duration>
@@ -358,7 +358,7 @@
             <pubDateNL>1 november 2020</pubDateNL>
             <guid isPermaLink="false">0003.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0003.mp3" duration="1570" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0003.mp3" duration="1570" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Kerk aan de wandel</media:title>
                 <media:description><![CDATA[
                 In 1621 moest de katholieke kerk in Huisseling worden afgebroken tijdens een toch al lastig jaar voor de bevolking. Op dat moment werden er namelijk verdedigingswerken gebouwd door het (protestantse) Staatse leger wat in Ravenstein gestationeerd was. De kerk stond in het schootsveld en moest weg. Uiteindelijk werd de kerk pas vijf jaar later een kleine kilometer verderop weer opgebouwd. En dat was nog lang niet het enige wat er gesloopt moest worden voor dat Staatse leger. Samen met Jeroen Arts, kenner van de geschiedenis van Huisseling en beheerder van www.huisseling.nl, nemen we de deze periode door.
@@ -366,12 +366,12 @@
                 Cover: de in 1626 herbouwde kerk. (Rijksdienst voor het Cultureel Erfgoed https://commons.wikimedia.org/w/index.php?curid=23598037)
                 ]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0003-cover.jpg"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0003-cover.jpg"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,Huisseling,architectuur,kerk</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0003.mp3" length="23771927" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0003-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0003.mp3" length="23771927" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0003-cover.jpg?v=1"/>
             <webimage href="episodes/0003-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:26:19</itunes:duration>
@@ -380,24 +380,24 @@
         <item>
             <title>Utopisch Oss in 1918</title>
             <description>
-                Oss had er heel anders uit kunnen zien als de uitbreidingsplannen uit 1918 waren uitgevoerd: een haven op de plek waar nu De Lievekamp staat, een groot stadshuis aan De Heuvel en als klap op de vuurpijl een perfect cirkelvormige rondweg. Architect Charles Estourgie had grootse plannen en samnegevat in een grootse plattegrond van dat ideale Oss. Geen vereiste maar wel handig: check de kaart op http://derestisgeschiedenis.nl/episodes/0002-Uitbreidingsplan-Oss-1918.jpg voordat je de podcast luistert of als je de kaart wil afdrukken.
+                Oss had er heel anders uit kunnen zien als de uitbreidingsplannen uit 1918 waren uitgevoerd: een haven op de plek waar nu De Lievekamp staat, een groot stadshuis aan De Heuvel en als klap op de vuurpijl een perfect cirkelvormige rondweg. Architect Charles Estourgie had grootse plannen en samnegevat in een grootse plattegrond van dat ideale Oss. Geen vereiste maar wel handig: check de kaart op https://derestisgeschiedenis.nl/episodes/0002-Uitbreidingsplan-Oss-1918.jpg voordat je de podcast luistert of als je de kaart wil afdrukken.
             </description>
             <pubDate>Thu, 13 Aug 2020 04:00:00 GMT</pubDate>
             <pubDateNL>13 augustus 2020</pubDateNL>
             <guid isPermaLink="false">0002.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0002.mp3" duration="2600" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0002.mp3" duration="2600" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Utopisch Oss in 1918</media:title>
                 <media:description>
-                    Oss had er heel anders uit kunnen zien als de uitbreidingsplannen uit 1918 waren uitgevoerd: een haven op de plek waar nu De Lievekamp staat, een groot stadshuis aan De Heuvel en als klap op de vuurpijl een perfect cirkelvormige rondweg. Architect Charles Estourgie had grootse plannen en samnegevat in een grootse plattegrond van dat ideale Oss. Geen vereiste maar wel handig: check de kaart op http://derestisgeschiedenis.nl/episodes/0002-Uitbreidingsplan-Oss-1918.jpg voordat je de podcast luistert of als je de kaart wil afdrukken.
+                    Oss had er heel anders uit kunnen zien als de uitbreidingsplannen uit 1918 waren uitgevoerd: een haven op de plek waar nu De Lievekamp staat, een groot stadshuis aan De Heuvel en als klap op de vuurpijl een perfect cirkelvormige rondweg. Architect Charles Estourgie had grootse plannen en samnegevat in een grootse plattegrond van dat ideale Oss. Geen vereiste maar wel handig: check de kaart op https://derestisgeschiedenis.nl/episodes/0002-Uitbreidingsplan-Oss-1918.jpg voordat je de podcast luistert of als je de kaart wil afdrukken.
                 </media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0002-cover.jpg"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0002-cover.jpg"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,architectuur,stadsplanning</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0002.mp3" length="37177753" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0002-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0002.mp3" length="37177753" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0002-cover.jpg?v=1"/>
             <webimage href="episodes/0002-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:43:20</itunes:duration>
@@ -412,18 +412,18 @@
             <pubDateNL>6 juni 2020</pubDateNL>
             <guid isPermaLink="false">0001.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0001.mp3" duration="2702" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0001.mp3" duration="2702" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">De geschiedenis van een fotocollectie</media:title>
                 <media:description>
                     Persfotograaf Daan Scholte werkt tussen 1947 en 1966 voor het "Dagblad voor Oss en Omstreken" wat later opging in het Brabants Dagbled. Hij liet 47.000 foto-negatieven achter. De collectie geeft een mooi tijdsbeeld van het naoorlogse Oss. Heel mooi, maar wat doe je met zoveel ongedocumenteerde negatieven? Interview met Jurgen Pigmans van Stadsarchief Oss en Jan Ulijn van de "Daan Scholte-groep". De foto's van Daan Scholte en anderen zijn terug te vinden op http://osspubliek.hosting.deventit.net.
                 </media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/episodes/0001-cover.jpg"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0001-cover.jpg"/>
                 <media:keywords>geschiedenis,heemkunde,Oss,Daan Scholte,fotografie</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0001.mp3" length="38731647" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/episodes/0001-cover.jpg?v=1"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0001.mp3" length="38731647" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/episodes/0001-cover.jpg?v=1"/>
             <webimage href="episodes/0001-cover-small.jpg?v=1"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:45:04</itunes:duration>
@@ -438,18 +438,18 @@
             <pubDateNL>26 mei 2020</pubDateNL>
             <guid isPermaLink="false">0000.mp3</guid>
 
-            <media:content url="http://derestisgeschiedenis.nl/episodes/0000.mp3" duration="48" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0000.mp3" duration="48" medium="audio" type="audio/mpeg" isDefault="true" expression="full">
                 <media:title type="plain">Introductie</media:title>
                 <media:description>
 					De Rest Is Geschiedenis is een podcast over geschiedenis in de gemeente Oss. Het doel is om geschiedenis simpel en levendig te brengen in de vorm van interviews.
 				</media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
-                <media:thumbnail url="http://derestisgeschiedenis.nl/logo-drig.png"/>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/logo-drig.png"/>
                 <media:keywords>geschiedenis,oss</media:keywords>
             </media:content>
 
-            <enclosure url="http://derestisgeschiedenis.nl/episodes/0000.mp3" length="1048576" type="audio/mpeg"/>
-            <itunes:image href="http://derestisgeschiedenis.nl/logo-drig.png"/>
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0000.mp3" length="1048576" type="audio/mpeg"/>
+            <itunes:image href="https://derestisgeschiedenis.nl/logo-drig.png"/>
             <webimage href="logo-drig.svg"/>
             <itunes:explicit>clean</itunes:explicit>
             <itunes:duration>0:00:48</itunes:duration>

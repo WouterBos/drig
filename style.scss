@@ -139,17 +139,11 @@ ul.posts h2 .episode-cover {
   margin-right: 0.3em;
   background-color: #000;
 }
-ul.posts h2 .episode-cover:hover {
-  background-color: $color-primary;
-}
 ul.posts h2 .episode-cover img {
   float: left;
   width: 3em;
   height: 3em;
   border: 0.1em solid #000;
-}
-ul.posts h2 .episode-cover:hover img {
-  opacity: 0.7;
 }
 
 ul.posts h2 .episode-title {

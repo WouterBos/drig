@@ -7,7 +7,7 @@
 			<head>
 				<meta charset="utf-8" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="stylesheet" type="text/css" href="style.css?v=12"></link>
+				<link rel="stylesheet" type="text/css" href="style.css?v=13"></link>
 				<meta name="description" content="{ title } - { description }" />
 				<link rel="alternate" type="application/rss+xml" title="{ title }" href="podcast.xml" />
 				<link rel="shortcut icon" href="favicon.ico"></link>
@@ -25,12 +25,13 @@
 
 						<p>
 							<b>Abonneer</b> op deze podcast via <a class="textlink" href="https://podcasts.apple.com/nl/podcast/de-rest-is-geschiedenis/id1517155449">iTunes</a>,
-							<a class="textlink" href="https://open.spotify.com/show/2Kvn8qXKPrY6XHHiOCYtkt">Spotify</a> of
-							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cDovL2RlcmVzdGlzZ2VzY2hpZWRlbmlzLm5sL3BvZGNhc3QueG1s">Google Podcasts</a> of gebruik de RSS feed: <span class="rssLink">https://derestisgeschiedenis.nl/podcast.xml</span>
+							<a class="textlink" href="https://open.spotify.com/show/2Kvn8qXKPrY6XHHiOCYtkt">Spotify</a>,
+							<a class="textlink" href="https://www.youtube.com/playlist?list=PLPqc0DFI3ojFZrjFDlzJVGs77qb-hA8H-">YouTube</a> of
+							<a class="textlink" href="https://podcasts.google.com/feed/aHR0cDovL2RlcmVzdGlzZ2VzY2hpZWRlbmlzLm5sL3BvZGNhc3QueG1s">Google Podcasts</a> of gebruik de RSS feed: https://derestisgeschiedenis.nl/podcast.xml.
 						</p>
 
 						<p>
-							<b>Deel</b> deze podcast als je die leuk vindt en wil dat anderen dit ook ontdekken. Laat een review achter in je podcast app en deel deze pagina op social media.
+							Vind je de podcast leuk? <b>Deel deze podcast</b> met anderen en <b>laat een beoordeling achter</b> in je podcast app.
 						</p>
 					</section>
           

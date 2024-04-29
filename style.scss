@@ -7,7 +7,8 @@ $color-box: hsl(0, 0%, 93%);
 $color-box-variant: hsl(0, 0%, 88%);
 $color-box-dark: hsl(0, 0%, 80%);
 $color-secondary: hsl(49.74, 100%, 62.16%);
-$color-link: hsl(197, 100%, 30%);
+$color-link: hsl(197, 100%, 40%);
+$color-link-underline: hsla(197, 100%, 40%, 0.3);
 
 @font-face {
   font-family: "communistregular";
@@ -22,6 +23,7 @@ html {
   font-family: Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans",
     source-sans-pro, sans-serif;
   font-size: 1.1em;
+  line-height: 1.5;
   background-color: #fff;
 }
 
@@ -80,11 +82,15 @@ h2 {
 }
 
 .textlink {
-  border-radius: 0.05rem;
+  transition: background-color 0.3s ease-out, box-shadow 0.3s ease-out;
+  border-radius: 0.2rem;
   color: $color-link;
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-color: $color-link-underline;
+  white-space: nowrap;
 }
 .textlink:hover {
+  transition: background-color 0.15s ease-out, box-shadow 0.15s ease-out;
   color: #000;
   text-decoration: none;
   background-color: $color-secondary;
@@ -172,6 +178,7 @@ ul.posts .play-box .play-box__link {
   display: inline-block;
   padding: 1em 2em 0 2em;
   background: $color-box;
+  // background: linear-gradient(180deg, hsl(0, 0%, 99%) 0%, $color-box 60%);
 }
 
 ul.posts .play-box__link a {

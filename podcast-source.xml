@@ -10,7 +10,7 @@
         <link>https://derestisgeschiedenis.nl</link>
         <description>Interviews over geschiedenis in de gemeente Oss.</description>
         <managingEditor>wouter@bososs.nl (Wouter Bos)</managingEditor>
-        <webMaster>wouter@bososs.nl (Wouter Bos)</webMaster>
+        <webMaster>wouter@bososs.nl</webMaster>
         <language>nl-nl</language>
         <copyright>Copyright (C) 2020 De Rest Is Geschiedenis</copyright>
         <creativeCommons:license>https://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -25,9 +25,10 @@
         <itunes:new-feed-url>https://derestisgeschiedenis.nl/podcast.xml</itunes:new-feed-url>
 
         <itunes:owner>
-            <itunes:name><![CDATA[Wouter Bos]]></itunes:name>
             <itunes:email>wouter@bososs.nl</itunes:email>
         </itunes:owner>
+        <itunes:author>Wouter Bos</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
 
         <image>
             <url>https://derestisgeschiedenis.nl/logo-drig.png</url>
@@ -141,7 +142,8 @@
                     het Rampjaar is gaan heten, waren ze in Ravenstein er minder rouwig om. Sterker: het 350-jaar
                     jubileum werd dit jaar in Ravenstein gevierd als het Jubeljaar. Aan tafel zitten Theo van Duren van
                     de Vrijstaat van het land van Ravenstein en Martin Jan van Mourik van de Ravensteinse Loterijfonds
-                    die meer daarover kunnen vertellen.]]></media:description>
+                    die meer daarover kunnen
+                    vertellen.]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
                 <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0014-cover.jpg?v=1" />
                 <media:keywords>geschiedenis,heemkunde,Ravenstein,1672,Rampjaar</media:keywords>
@@ -160,7 +162,8 @@
             <description><![CDATA[Een korte bonusaflevering als aanvulling op de vorige aflevering over de foto's van Adrianus
                 van de Rakt. Ik was aanwezig bij de opening van de fototentoonstelling in het Stadsarchief van Oss en ik
                 stelde daar wat vragen aan Broer van Gestel, de kleinzoon van Adrianus van de Rakt en de donateur van de
-                foto's van de tentoonstelling. Mijn stem klinkt wat gemoffeld door mijn mondkapje.]]></description>
+                foto's van de tentoonstelling. Mijn stem klinkt wat gemoffeld door mijn
+                mondkapje.]]></description>
             <pubDate>Mon, 31 Jan 2022 04:00:00 GMT</pubDate>
             <pubDateNL>31 januari 2022</pubDateNL>
             <guid isPermaLink="false">0013.mp3</guid>
@@ -267,7 +270,8 @@
                     50 gebeurtenissen van historische waarde. Het was een motorrace die van 1969 tot en met 1975 elk
                     jaar werd gehouden en was vanaf het begin al een publiekstrekker. Het was echter ook een gevaarlijke
                     race en dat heeft het evenement uiteindelijk de das om gedaan. Gast: Mari van Kasteren die een boek
-                    heeft gemaakt over de 24 uur van Oss. Geïnteresseerd in het boek? Mail naar nmbwegraces@gmail.com.]]></media:description>
+                    heeft gemaakt over de 24 uur van Oss. Geïnteresseerd in het boek? Mail naar
+                    nmbwegraces@gmail.com.]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
                 <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0010-cover.jpg?v=1" />
                 <media:keywords>geschiedenis,heemkunde,Oss,motor,race</media:keywords>
@@ -371,7 +375,8 @@
                     50 jaar lang de economie van Oss sterk beïnvloed. De margarine-industrie in Oss heeft direct
                     bijgedragen aan de twee donkere periodes in Oss waarbij fabrieken sloten en onrust en criminaliteit
                     tot ongekende dieptepunten kwam. Verder heeft de rivaliteit en uiteindelijke verzoekening van de
-                    Osse families Jurgens en Van den Bergh aan de wieg gestaan van de oprichting van Unilever.]]></media:description>
+                    Osse families Jurgens en Van den Bergh aan de wieg gestaan van de oprichting van
+                    Unilever.]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
                 <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0007-cover.jpg?v=1" />
                 <media:keywords>geschiedenis,heemkunde,Oss,margarine,Jurgens,industriele revolutie</media:keywords>
@@ -428,7 +433,8 @@
                 tussen het Heschepad en de Molenstraat is niet alleen een bezienswaardigheid maar vertelt ook het grote
                 verhaal van de koude oorlog en het kleine verhaal van de protesten rond de bouw van deze schuilkelder.
                 Bekijk de schuilkelder in deze korte video van het stadsarchief: https://youtu.be/9p_h4Wgf8KU. Na corona
-                kan je weer een rondleiding aanvragen via https://www.maaslandgildeoss.nl.]]></description>
+                kan je weer een rondleiding aanvragen via
+                https://www.maaslandgildeoss.nl.]]></description>
             <pubDate>Sun, 15 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>15 november 2020</pubDateNL>
             <guid isPermaLink="false">0005.mp3</guid>
@@ -464,7 +470,8 @@
                 blank te staan wat de ontwikkeling van het gebied beperkte. Samen met regio-historicus Henk Buijks
                 bespreken we de complete geschiedenis van "de groene rivier" in een vogelvlucht. Voor zover dat ons lukt
                 in een klein uur. :) Voor degenen die net zoveel houden van kaarten als ik, op deze kaart kan je zien
-                hoe ver het water kwam in 1876: https://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg]]></description>
+                hoe ver het water kwam in 1876:
+                https://derestisgeschiedenis.nl/episodes/0004-overstroming-1876.jpg]]></description>
             <pubDate>Sat, 7 Nov 2020 04:00:00 GMT</pubDate>
             <pubDateNL>7 november 2020</pubDateNL>
             <guid isPermaLink="false">0004.mp3</guid>
@@ -517,7 +524,8 @@
                     opgebouwd. En dat was nog lang niet het enige wat er gesloopt moest worden voor dat Staatse leger.
                     Samen met Jeroen Arts, kenner van de geschiedenis van Huisseling en beheerder van www.huisseling.nl,
                     nemen we de deze periode door. Cover: de in 1626 herbouwde kerk. (Rijksdienst voor het Cultureel
-                    Erfgoed https://commons.wikimedia.org/w/index.php?curid=23598037)]]></media:description>
+                    Erfgoed
+                    https://commons.wikimedia.org/w/index.php?curid=23598037)]]></media:description>
                 <media:rating scheme="urn:simple">nonadult</media:rating>
                 <media:thumbnail url="https://derestisgeschiedenis.nl/episodes/0003-cover.jpg" />
                 <media:keywords>geschiedenis,heemkunde,Oss,Huisseling,architectuur,kerk</media:keywords>

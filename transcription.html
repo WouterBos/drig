@@ -1,0 +1,29 @@
+
+    <!DOCTYPE html>
+<html lang="nl">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="shortcut icon" href="favicon.ico">
+      <title>De Rest Is Geschiedenis</title>
+      <link rel="stylesheet" type="text/css" href="transcription.css">
+   </head>
+   <body>
+      <h1>Transcriptie</h1>
+      <p><b>De tekst is automatisch gegenereerd op basis van de audio.</b></p>
+      <div id="transcription"><a href="" id="link">Bezig met laden tekst...</a></div>
+
+      <script>
+         async function getText() {
+            const link = 'episodes/0015.txt';
+            document.getElementById('link').href = link;
+            const response = await fetch(link);
+            let text = await response.text();
+            text = '<p>' + text.replace(/\n/g, '</p><p>') + '</p>';
+            document.getElementById('transcription').innerHTML = text;
+         }
+         getText();
+      </script>
+   </body>
+</html>

@@ -6,7 +6,8 @@
     "lite": "lite-server --port 10001",
     "start": "npm run lite",
     "build:html": "xslt3 -xsl:style-source.xsl -s:podcast-source.xml -o:index.html -t",
-    "build:scss": "node-sass --output-style compressed style.scss style.css",
+    "build:scss": "dart-sass --style=compressed style.scss style.css && dart-sass --style=compressed transcription.scss transcription.css",
+    "build:scss-help": "dart-sass --help",
     "build:xml": "./node_modules/minify-xml/cli.js podcast-source.xml --output podcast.xml",
     "build:xsl": "./node_modules/minify-xml/cli.js style-source.xsl --output style.xsl",
     "build": "npm run build:scss && npm run build:xml && npm run build:xsl && npm run build:html"
@@ -23,5 +24,8 @@
     "webpack": "^5.35.1",
     "webpack-cli": "^4.6.0",
     "xslt3": "^2.1.0"
+  },
+  "dependencies": {
+    "dart-sass": "^1.25.0"
   }
 }

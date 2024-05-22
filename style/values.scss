@@ -1,11 +1,15 @@
 $color-text: hsl(0, 0%, 20%);
-$color-heading: hsl(0, 0%, 26.67%);
 $color-text-secondary: hsl(0, 0%, 40%);
+
+$color-heading: hsl(0, 0%, 26.67%);
+
 $color-primary: hsl(197, 100%, 35%);
-$color-box-light: #f7f7f7;
+$color-secondary: hsl(49.74, 100%, 62.16%);
+
 $color-box: hsl(0, 0%, 93%);
+$color-box-light: #f7f7f7;
 $color-box-variant: hsl(0, 0%, 88%);
 $color-box-dark: hsl(0, 0%, 80%);
-$color-secondary: hsl(49.74, 100%, 62.16%);
-$color-link: hsl(197, 100%, 40%);
-$color-link-underline: hsla(197, 100%, 40%, 0.3);
+
+$color-link: hsl(197, 100%, 30%);
+$color-link-underline: hsla(197, 100%, 30%, 0.4);

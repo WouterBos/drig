@@ -1,16 +1,16 @@
 .textlink {
   transition: background-color 0.3s ease-out, box-shadow 0.3s ease-out;
   border-radius: 0.2rem;
-  color: $color-link;
+  color: var(--color-link);
   text-decoration: underline;
-  text-decoration-color: $color-link-underline;
+  text-decoration-color: var(--color-link-underline);
   white-space: nowrap;
 
   &:hover {
     transition: background-color 0.15s ease-out, box-shadow 0.15s ease-out;
     color: #000;
     text-decoration: none;
-    background-color: $color-secondary;
-    box-shadow: 0 0 0 0.25em $color-secondary;
+    background-color: var(--color-secondary);
+    box-shadow: 0 0 0 0.25em var(--color-secondary);
   }
 }

@@ -7,12 +7,12 @@
 }
 
 html {
-  color: $color-text;
+  color: var(--color-text);
   font-family: Seravek, "Gill Sans Nova", Ubuntu, Calibri, "DejaVu Sans",
     source-sans-pro, sans-serif;
   font-size: 1.1em;
   line-height: 1.5;
-  background-color: #fff;
+  background-color: var(--color-page);
 }
 
 body {
@@ -27,7 +27,7 @@ h2 {
 
 h1 {
   margin: 0 0 0.4em 0;
-  color: $color-heading;
+  color: var(--color-heading);
   font-size: 3em;
   letter-spacing: -0.03em;
   line-height: 1em;
@@ -39,10 +39,6 @@ h2 {
 }
 
 @media (max-width: 50em) {
-  html {
-    background-color: hsl(0, 0%, 100%);
-  }
-
   .hideOnMobile {
     display: none;
   }
@@ -56,7 +52,6 @@ h2 {
 
 @media (max-width: 40em) {
   html {
-    background-color: hsl(0, 0%, 100%);
     font-size: 1rem;
   }
 

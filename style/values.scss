@@ -1,15 +1,38 @@
-$color-text: hsl(0, 0%, 20%);
-$color-text-secondary: hsl(0, 0%, 40%);
+:root {
 
-$color-heading: hsl(0, 0%, 26.67%);
+  --color-text: hsl(0, 0%, 20%);
+  --color-text-secondary: hsl(0, 0%, 40%);
 
-$color-primary: hsl(197, 100%, 35%);
-$color-secondary: hsl(49.74, 100%, 62.16%);
+  --color-heading: hsl(0, 0%, 25%);
 
-$color-box: hsl(0, 0%, 93%);
-$color-box-light: #f7f7f7;
-$color-box-variant: hsl(0, 0%, 88%);
-$color-box-dark: hsl(0, 0%, 80%);
+  --color-primary: hsl(197, 100%, 35%);
+  --color-secondary: hsl(49.74, 100%, 62%);
 
-$color-link: hsl(197, 100%, 30%);
-$color-link-underline: hsla(197, 100%, 30%, 0.4);
+  --color-page: hsl(0, 0%, 100%);
+  --color-box: hsl(0, 0%, 93%);
+  --color-box-light: hsl(0, 0%, 97%);
+  --color-box-variant: hsl(0, 0%, 88%);
+  --color-box-dark: hsl(0, 0%, 80%);
+
+  --color-link: hsl(197, 100%, 30%);
+  --color-link-underline: hsla(197, 100%, 30%, 0.4);
+
+  @media (prefers-color-scheme: dark) {
+    --color-text: hsl(0, 0%, 95%);
+    --color-text-secondary: hsl(0, 0%, 65%);
+
+    --color-heading: hsl(0, 0%, 90%);
+
+    --color-primary: hsl(197, 100%, 35%);
+    --color-secondary: hsl(49.74, 100%, 62%);
+
+    --color-page: hsl(0, 0%, 0%);
+    --color-box: hsl(0, 0%, 7%);
+    --color-box-light: hsl(0, 0%, 3%);
+    --color-box-variant: hsl(0, 0%, 12%);
+    --color-box-dark: hsl(0, 0%, 20%);
+
+    --color-link: hsl(197, 100%, 70%);
+    --color-link-underline: hsla(197, 100%, 70%, 0.4);
+  }
+}

@@ -4,7 +4,7 @@ ul.posts {
   list-style: none;
 
   .pubDate {
-    color: $color-text-secondary;
+    color: var(--color-text-secondary);
     font-size: 0.9em;
     text-transform: uppercase;
 
@@ -27,7 +27,7 @@ ul.posts {
     margin: 0.2em 0 1rem 0;
     display: flex;
     align-items: center;
-    color: $color-heading;
+    color: var(--color-heading);
     font-size: clamp(1rem, calc(2vw + 1em), 2.8rem);
     font-weight: normal;
     letter-spacing: -0.03em;
@@ -37,13 +37,13 @@ ul.posts {
       flex-grow: 0;
       flex-shrink: 0;
       margin-right: 0.3em;
-      background-color: #000;
+      background-color: var(--color-text);
 
       img {
         float: left;
         width: 3em;
         height: 3em;
-        border: 0.1em solid #000;
+        border: 0.1em solid var(--color-text);
       }
     }
 
@@ -73,8 +73,9 @@ ul.posts {
     }
 
     span {
-      color: $color-text-secondary;
+      color: var(--color-text-secondary);
       font-size: .9em;
+      flex-shrink: 0;
     }
   }
 
@@ -85,7 +86,7 @@ ul.posts {
     .play-box__link {
       display: inline-block;
       padding: 1em 2em 0 2em;
-      background: $color-box;
+      background: var(--color-box);
 
       a {
         transition: all 0.3s cubic-bezier(0.34, 1.56, 0.32, 1.6);
@@ -94,7 +95,7 @@ ul.posts {
         border-radius: 0.2rem;
         padding: 0.5em 0.5em 0.5em 1.9em;
         line-height: 1em;
-        color: $color-link;
+        color: var(--color-link);
         font-size: 1.1em;
         font-weight: bold;
         text-decoration: none;
@@ -103,16 +104,16 @@ ul.posts {
         background-repeat: no-repeat;
         background-position: 0.5em center;
         background-size: 1em;
-        box-shadow: 0 2px 2px 1px $color-box-dark;
+        box-shadow: 0 2px 2px 1px var(--color-box-dark);
 
         &:hover {
           transform: scale(1.1);
           transition: all 0.15s cubic-bezier(0.34, 1.56, 0.32, 1.6);
           color: #000;
           text-decoration: none;
-          background-color: $color-secondary;
+          background-color: var(--color-secondary);
           background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='utf-8'%3F%3E%3Csvg version='1.1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' viewBox='0 0 100 73.6' style='enable-background:new 0 0 100 73.6;' xml:space='preserve'%3E%3Cstyle type='text/css'%3E .st0%7Bfill:%23000000;%7D%0A%3C/style%3E%3Cpath class='st0' d='M7,16.6c-4.9,0-7,11.4-7,20.2s2.3,19.9,6.5,19.9c2.9,0,8.5,0,10.9,0c6.4,0,16.5,11,21.5,15.2 c3.6,3,10,1.9,10-4.5l0-61.6c0-6.2-6.4-7.2-10-4.1c-5.3,4.6-14.9,14.8-21.3,14.8C15.6,16.6,10.2,16.6,7,16.6z'/%3E%3Cpath class='st0' d='M69.6,13.7c-1.9-1.9-4.9-1.9-6.8,0c-1.9,1.9-1.9,4.9,0,6.8v0c4.2,4.2,6.8,9.9,6.8,16.3c0,6.3-2.6,12.1-6.7,16.2 c-1.9,1.9-1.9,5,0,6.9c0.9,0.9,2.2,1.4,3.4,1.4c1.2,0,2.5-0.5,3.4-1.4c5.9-5.9,9.6-14.1,9.6-23.1C79.2,27.8,75.5,19.6,69.6,13.7z'/%3E%3Cpath class='st0' d='M85.3,1.5c-2-2-5.1-2-7.1,0c-2,2-2,5.1,0,7.1C85.5,15.8,90,25.7,90,36.8c0,11-4.5,21-11.7,28.2 c-2,1.9-2,5.1,0,7.1c0.9,1,2.3,1.5,3.5,1.5c1.3,0,2.6-0.5,3.5-1.5c9-9,14.7-21.5,14.7-35.3C100,23,94.4,10.5,85.3,1.5z'/%3E%3C/svg%3E");
-          box-shadow: 0 2px 6px 1px $color-box-dark;
+          box-shadow: 0 2px 6px 1px var(--color-box-dark);
         }
       }
     }
@@ -120,7 +121,7 @@ ul.posts {
 
   .time {
     margin-left: 0.4em;
-    color: $color-text-secondary;
+    color: var(--color-text-secondary);
     font-size: 0.85em;
     white-space: nowrap;
   }

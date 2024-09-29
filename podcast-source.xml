@@ -37,6 +37,44 @@
         </image>
 
         <item>
+            <title>IJzertijd (podcast Museum Jan Cunen)</title>
+            <description><![CDATA[Bij deze een plug voor een andere Osse podcast waar ik mijn bijdrage aan lever en de afleveringen
+                ook vaak over geschiedenis gaan. Vandaag wil ik de podcast van Museum Jan Cunen pluggen. In die podcast gaat curator
+                Merel van den Nieuwenhof dieper in op onderwerpen gerelateerd aan tentoonstellingen die in het Osse museum te zien zijn.
+                Een van die tentoonstellingen was De Vorst Van Oss waar naast het legendarische Osse krom gebogen zwaard nog vele
+                andere voorwerpen uit de ijzertijd werden getoond. De tentoonstelling was de aanleiding voor een tweetal afleveringen
+                over de ijzertijd waarin werd gesproken met Richard Jansen van Universiteit Leiden die in het verleden ook
+                gemeentearcheoloog van de gemeente Oss is geweest. Smaakt het naar meer? Zoek dan de podcast van Museum Jan Cunen
+                op bij bijvoorbeeld Spotify of iTunes.]]></description>
+            <pubDate>Mon, 30 Sep 2024 04:00:00 GMT</pubDate>
+            <pubDateNL>30 september 2024</pubDateNL>
+            <guid isPermaLink="false">0017.mp3</guid>
+
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0017.mp3" duration="1964"
+                medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Landweren, de verdedigingswerken van het Osse platteland</media:title>
+                <media:description><![CDATA[Bij deze een plug voor een andere Osse podcast waar ik mijn bijdrage aan lever en de afleveringen
+                ook vaak over geschiedenis gaan. Vandaag wil ik de podcast van Museum Jan Cunen pluggen. In die podcast gaat curator
+                Merel van den Nieuwenhof dieper in op onderwerpen gerelateerd aan tentoonstellingen die in het Osse museum te zien zijn.
+                Een van die tentoonstellingen was De Vorst Van Oss waar naast het legendarische Osse krom gebogen zwaard nog vele
+                andere voorwerpen uit de ijzertijd werden getoond. De tentoonstelling was de aanleiding voor een tweetal afleveringen
+                over de ijzertijd waarin werd gesproken met Richard Jansen van Universiteit Leiden die in het verleden ook
+                gemeentearcheoloog van de gemeente Oss is geweest. Smaakt het naar meer? Zoek dan de podcast van Museum Jan Cunen
+                op bij bijvoorbeeld Spotify of iTunes.]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/logo-drig.png" />
+                <media:keywords>geschiedenis,ijzertijd</media:keywords>
+            </media:content>
+
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0017.mp3" length="39298210"
+                type="audio/mpeg" />
+            <itunes:image href="https://derestisgeschiedenis.nl/logo-drig.png" />
+            <webimage href="logo-drig.svg" />
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:32:42</itunes:duration>
+        </item>
+
+        <item>
             <title>Landweren, de verdedigingswerken van het Osse platteland</title>
             <description><![CDATA[Oss kreeg in 1399 stadsrechten en had daarmee het recht zichzelf te verdedigen met een
                 stadswal. Dit was hoognodig omdat er toen vaak werd gevochten tussen de hertogdommen Brabant en Gelre.

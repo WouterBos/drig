@@ -37,6 +37,38 @@
         </image>
 
         <item>
+            <title>Wandelen door Middeleeuws Oss</title>
+            <description><![CDATA[Bij deze een plug voor de podcast OsseSchouders. Het is een podcast van de gemeente Oss en staat stil bij
+                verschillende thema's in de Osse geschiedenis. Een aflevering die alleen maar over de geschiedenis van Oss gaat is de aflevering
+                waarbij ik met Jurgen Pigmans van het Stadsarchief Oss door het centrum wandel en de plekken bezoeken die -hoe subtiel ook- ons
+                nog steeds herinneren aan het Middeleeuwse Oss. Smaakt dit naar meer? Zoek dan naar OsseSchouders in bijvoorbeeld
+                Spotify of iTunes.]]></description>
+            <pubDate>Mon, 31 Dec 2024 04:00:00 GMT</pubDate>
+            <pubDateNL>31 december 2024</pubDateNL>
+            <guid isPermaLink="false">0018.mp3</guid>
+
+            <media:content url="https://derestisgeschiedenis.nl/episodes/0018.mp3" duration="2024"
+                medium="audio" type="audio/mpeg" isDefault="true" expression="full">
+                <media:title type="plain">Landweren, de verdedigingswerken van het Osse platteland</media:title>
+                <media:description><![CDATA[Bij deze een plug voor de podcast OsseSchouders. Het is een podcast van de gemeente Oss en staat stil bij
+                verschillende thema's in de Osse geschiedenis. Een aflevering die alleen maar over de geschiedenis van Oss gaat is de aflevering
+                waarbij ik met Jurgen Pigmans van het Stadsarchief Oss door het centrum wandel en de plekken bezoeken die -hoe subtiel ook- ons
+                nog steeds herinneren aan het Middeleeuwse Oss. Smaakt dit naar meer? Zoek dan naar OsseSchouders in bijvoorbeeld
+                Spotify of iTunes.]]></media:description>
+                <media:rating scheme="urn:simple">nonadult</media:rating>
+                <media:thumbnail url="https://derestisgeschiedenis.nl/logo-drig.png" />
+                <media:keywords>geschiedenis,oss,middeleeuwen</media:keywords>
+            </media:content>
+
+            <enclosure url="https://derestisgeschiedenis.nl/episodes/0018.mp3" length="40490641"
+                type="audio/mpeg" />
+            <itunes:image href="https://derestisgeschiedenis.nl/logo-drig.png" />
+            <webimage href="logo-drig.svg" />
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>0:33:44</itunes:duration>
+        </item>
+
+        <item>
             <title>IJzertijd (podcast Museum Jan Cunen)</title>
             <description><![CDATA[Bij deze een plug voor een andere Osse podcast waar ik mijn bijdrage aan lever en de afleveringen
                 ook vaak over geschiedenis gaan. Vandaag wil ik de podcast van Museum Jan Cunen pluggen. In die podcast gaat curator

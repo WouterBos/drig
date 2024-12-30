@@ -44,6 +44,10 @@ ul.posts {
         width: 3em;
         height: 3em;
         border: 0.1em solid var(--color-text);
+        
+        &[src="logo-drig.svg"] {
+          border-width: 0;
+        }
       }
     }
 

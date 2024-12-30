@@ -5,11 +5,11 @@
   "scripts": {
     "lite": "lite-server --port 10001",
     "start": "npm run lite",
-    "build:html": "xslt3 -xsl:style-source.xsl -s:podcast-source.xml -o:index.html -t",
-    "build:scss": "dart-sass --style=compressed style.scss style.css && dart-sass --style=compressed transcription.scss transcription.css",
+    "build:html": "xslt3 -xsl:./src/style-source.xsl -s:./src/podcast-source.xml -o:index.html -t",
+    "build:scss": "dart-sass --style=compressed ./style/index.scss style.css",
     "build:scss-help": "dart-sass --help",
-    "build:xml": "./node_modules/minify-xml/cli.js podcast-source.xml --output podcast.xml",
-    "build:xsl": "./node_modules/minify-xml/cli.js style-source.xsl --output style.xsl",
+    "build:xml": "./node_modules/minify-xml/cli.js ./src/podcast-source.xml --output podcast.xml",
+    "build:xsl": "./node_modules/minify-xml/cli.js ./src/style-source.xsl --output style.xsl",
     "build": "npm run build:scss && npm run build:xml && npm run build:xsl && npm run build:html"
   },
   "author": "",

@@ -64,16 +64,6 @@
                       duur: <xsl:value-of select="*[local-name()='duration']" />
                     </span>
                   </div>
-                  <!-- <div class="play-box">
-                    <div class="play-box__link">
-                      <a href="{ substring-after(*[local-name()='content']/@url,'derestisgeschiedenis.nl/') }">
-                        Beluister
-                        <span class="hideOnMobile">aflevering</span>
-                      </a>
-                    </div>
-                    <time class="time" datetime="{ *[local-name()='duration'] }">duur: <xsl:value-of select="*[local-name()='duration']" />
-                    </time>
-                  </div> -->
                   <p>
                     <time class="pubDate" datetime="{ pubDate }">
                       <xsl:value-of select="pubDateNL" />

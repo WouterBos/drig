@@ -22,11 +22,13 @@
           <div class="logo">
             <img src="logo-drig.svg" alt="" width="163" height="163" />
           </div>
-          <div class="main">
-            <section class="introduction">
-              <h1>
-                <xsl:value-of select="title" />
-              </h1>
+          <main class="main">
+            <div class="introduction">
+              <header>
+                <h1>
+                  <xsl:value-of select="title" />
+                </h1>
+              </header>
               <p class="podcastDescription">
                 <xsl:value-of select="description" />
               </p>
@@ -41,7 +43,7 @@
               <p>
                 Vind je de podcast leuk? <b>Deel deze podcast</b> met anderen en <b>laat een beoordeling achter</b> in je podcast app.
               </p>
-            </section>
+            </div>
 
             <ul class="posts">
               <xsl:for-each select="./item">
@@ -73,7 +75,7 @@
                 </li>
               </xsl:for-each>
             </ul>
-          </div>
+          </main>
         </div>
       </body>
     </html>

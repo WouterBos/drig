@@ -1,16 +1,18 @@
 {
-  "name": "DRIG",
+  "name": "drig",
   "version": "1.1.0",
   "description": "De Rest Is Geschiedenis website",
   "scripts": {
-    "lite": "lite-server --port 10001",
-    "start": "npm run lite",
+    "build": "npm run build:scss && npm run build:xml && npm run build:xsl && npm run build:html",
     "build:html": "xslt3 -xsl:./src/style-source.xsl -s:./src/podcast-source.xml -o:index.html -t",
     "build:scss": "dart-sass --style=compressed ./style/index.scss style.css",
     "build:scss-help": "dart-sass --help",
     "build:xml": "./node_modules/minify-xml/cli.js ./src/podcast-source.xml --output podcast.xml",
     "build:xsl": "./node_modules/minify-xml/cli.js ./src/style-source.xsl --output style.xsl",
-    "build": "npm run build:scss && npm run build:xml && npm run build:xsl && npm run build:html"
+    "lite": "lite-server --port 10001",
+    "start": "npm run lite",
+    "start:a11y": "python3 -m http.server 3000",
+    "test:a11y": "axe localhost:3000 --browser firefox-headless"
   },
   "author": "",
   "license": "ISC",

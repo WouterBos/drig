@@ -9,25 +9,16 @@
     "build:scss-help": "dart-sass --help",
     "build:xml": "./node_modules/minify-xml/cli.js ./src/podcast-source.xml --output podcast.xml",
     "build:xsl": "./node_modules/minify-xml/cli.js ./src/style-source.xsl --output style.xsl",
-    "lite": "lite-server --port 10001",
-    "start": "npm run lite",
+    "start": "lite-server --port 10001",
     "start:a11y": "python3 -m http.server 3000",
     "test:a11y": "axe localhost:3000 --browser firefox-headless"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.14",
+    "dart-sass": "^1.25.0",
     "lite-server": "^2.6.1",
     "minify-xml": "^2.5.0",
-    "node-sass": "^9.0.0",
-    "npm-run-all": "^4.1.5",
-    "onchange": "^7.1.0",
-    "webpack": "^5.35.1",
-    "webpack-cli": "^4.6.0",
     "xslt3": "^2.1.0"
-  },
-  "dependencies": {
-    "dart-sass": "^1.25.0"
   }
 }
